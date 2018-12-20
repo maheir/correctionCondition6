@@ -38,6 +38,7 @@ namespace correctionCondition6
                     Console.WriteLine("Ceci n'est pas un mois");
                     break;
             }
+            Console.WriteLine("test");
         }
     }
 }
